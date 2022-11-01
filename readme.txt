@@ -5,3 +5,4 @@ Git tracks changes.
 change more...
 again, but this time 汉字。
 gpg sign test.
+after delete gpg-key from settings.
