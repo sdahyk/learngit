@@ -8,3 +8,4 @@ gpg sign test.
 after delete gpg-key from settings.
 git remote set-url --push origin git@github.com:sdahyk/learngit
 Creating a new branch is quick.
+add feature2 from master branch.
