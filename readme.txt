@@ -6,3 +6,4 @@ change more...
 again, but this time 汉字。
 gpg sign test.
 after delete gpg-key from settings.
+git remote set-url --push origin git@github.com:sdahyk/learngit
