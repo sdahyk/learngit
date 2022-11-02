@@ -12,3 +12,4 @@ Creating a new branch is quick.
 add feature1 branch.
 add feature2 from master branch.
 
+add merge from dev branch.
